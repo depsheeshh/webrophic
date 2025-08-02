@@ -68,8 +68,7 @@
                     <button class="btn btn-primary w-100 py-2" type="submit">Register</button>
                     {{-- <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2025</p> --}}
                 </form>
-                <small class="d-block text-center mb-5 mt-3">Udah Punya Akun? <a href="/login">Ya Login Lah Ngapain
-                        Kesini!</a></small>
+                <small class="d-block text-center mb-5 mt-3">Udah Punya Akun? <a href="/login">Login!</a></small>
             </main>
         </div>
     </div>
